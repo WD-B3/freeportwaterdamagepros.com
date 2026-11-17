@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freeportwaterdamagepros.com/sitemap.xml
